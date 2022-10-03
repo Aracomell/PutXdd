@@ -51,24 +51,24 @@ global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085334930628'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.pdana = '085942139006'
+global.povo = '089504231588'
+global.pgopay = '089504231588'
+global.ppulsa = '089504231588'
+global.ppulsa2 = '089504231588'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '60147366955'
-global.nomorown = '60147366955'
-global.namebot = 'Kyzo'
-global.nameown = '𝕻𝖚𝖙'
+global.nomorbot = '6289519894515'
+global.nomorown = '6289504231588'
+global.namebot = 'Epinzz'
+global.nameown = '𝖁𝖎𝖓𝖟𝖟'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['0'],
-  ['60147366955', '𝕻𝖚𝖙 𝕯𝖊𝖛', true]
+  ['6289504231588', '𝕻𝖚𝖙 𝕯𝖊𝖛', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝕻𝖚𝖙 𝕯𝖊𝖛 あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝕻𝖚𝖙 𝕯𝖊𝖛˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝕻𝖚𝖙 𝕯𝖊𝖛'
+global.wm = '                「 𝖁𝖎𝖓𝖟𝖟 𝕯𝖊𝖛 あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝖁𝖎𝖓𝖟𝖟 𝕯𝖊𝖛˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝖁𝖎𝖓𝖟𝖟 𝕯𝖊𝖛'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ┊ 𝕻𝖚𝖙 𝕯𝖊𝖛 Whatsapp ʙᴏᴛ'
+global.titlebot = '🌱 ┊ 𝖁𝖎𝖓𝖟𝖟 𝕯𝖊𝖛 Whatsapp ʙᴏᴛ'
 global.author = global.wm
 
 
